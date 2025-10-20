@@ -16,5 +16,10 @@
     <modules>
         <module>bridge</module>
         <module>adapter</module>
+        <module>proxy</module>
+        <module>decorator</module>
+        <module>composite</module>
+        <module>facade</module>
+        <module>flyweight</module>
     </modules>
 </project>
