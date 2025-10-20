@@ -16,5 +16,14 @@
     <modules>
         <module>command</module>
         <module>strategy</module>
+        <module>state</module>
+        <module>observer</module>
+        <module>mediator</module>
+        <module>chain-of-responsability</module>
+        <module>template-method</module>
+        <module>interpreter</module>
+        <module>memento</module>
+        <module>iterator</module>
+        <module>visitor</module>
     </modules>
 </project>
